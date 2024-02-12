@@ -1,4 +1,4 @@
-The following is a list of free and/or open source books on machine learning, statistics, data mining, etc.
+ The following is a list of free and/or open source books on machine learning, statistics, data mining, etc.
 
 ## Machine Learning / Data Mining
 
